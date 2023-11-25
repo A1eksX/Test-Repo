@@ -1,5 +1,5 @@
 "# Git-Seminar" 
 Hello Git
 
-Hello Local PC
+Line conflict 2
 Rep 2
