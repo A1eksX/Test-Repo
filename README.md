@@ -1,1 +1,2 @@
 "# Git-Seminar" 
+Hello Git
